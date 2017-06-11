@@ -1,0 +1,23 @@
+{
+  "name": "prasanth-http",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/http": "^4.0.0",
+    "@angular/platform-browser": "^4.0.0",
+    "@angular/platform-browser-dynamic": "^4.0.0",
+    "rxjs": "^5.1.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "1.0.4",
+    "@angular/compiler-cli": "^4.0.0",
+    "typescript": "~2.2.0"
+  }
+}
